@@ -31,3 +31,9 @@ set one of the flags to true
 ```latex
 \WZIMtrue % no other flags for departments exist right now
 ```
+# Jak kompilować
+Domyślnie działa kombinacja pdfLaTeX+MakeIndex+BibTex
+
+Do LuaLaTeX trzeba posłużyć się https://github.com/lchmiel/SGGW-Thesis-LaTeX/issues/7
+
+XeLaTeX nie działa.
